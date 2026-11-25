@@ -1,5 +1,5 @@
 # 1995 - M719 - 719-06-001 - COMPONENTS DESIGNATED SOT ARE SHOWN WITH.pcb
-Wiki page: [M719](../../../PAGES/M719.md)
+Wiki page: [M719](../../../../PAGES/M719.md)
 
 
 - **Year:** 1995 (found in this file: "Issue 14-317 PETER WONG OCT. 13, 1995")
@@ -309,7 +309,7 @@ net VCC
 
 ```json
 {
- "file": "Modules/COMMUNICATION/M719/1995 - M719 - 719-06-001 - COMPONENTS DESIGNATED SOT ARE SHOWN WITH.pcb",
+ "file": "Modules/COMMUNICATION/M719/SCHEMATICS/1995 - M719 - 719-06-001 - COMPONENTS DESIGNATED SOT ARE SHOWN WITH.pcb",
  "sha256": "3f578cf6b054e616c10be56e32d96d67724bcc5e584fddca614e5769fc27cc39",
  "kind": "module",
  "models": [
