@@ -1,6 +1,6 @@
 # M719 Intercom Module · Communication
 
-Ward-Beck Systems M719, 1994|27. Wiki page: [M719 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M719.html)
+Ward-Beck Systems M719, 1994|27. Wiki page: [M719 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M719-Intercom-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

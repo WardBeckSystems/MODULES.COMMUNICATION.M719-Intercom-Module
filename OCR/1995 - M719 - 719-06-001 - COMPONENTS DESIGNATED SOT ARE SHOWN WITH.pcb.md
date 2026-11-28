@@ -1,5 +1,5 @@
 # 1995 - M719 - 719-06-001 - COMPONENTS DESIGNATED SOT ARE SHOWN WITH.pcb
-Wiki page: [M719](../../../../PAGES/M719.md)
+Wiki page: [M719](../)
 
 
 - **Year:** 1995 (found in this file: "Issue 14-317 PETER WONG OCT. 13, 1995")
